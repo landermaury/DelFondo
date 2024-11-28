@@ -1,0 +1,6 @@
+C:\Users\Naza\Desktop\Sylvia ou La Nymphe de Diane\Resources\BandaSonora.wav
+C:\Users\Naza\Desktop\Sylvia ou La Nymphe de Diane\Sylvia ou La Nymphe de Diane.exe
+C:\Users\Naza\Desktop\Sylvia ou La Nymphe de Diane\Sylvia ou La Nymphe de Diane.dll
+C:\Users\Naza\Desktop\Sylvia ou La Nymphe de Diane\Sylvia ou La Nymphe de Diane.deps.json
+C:\Users\Naza\Desktop\Sylvia ou La Nymphe de Diane\Sylvia ou La Nymphe de Diane.runtimeconfig.json
+C:\Users\Naza\Desktop\Sylvia ou La Nymphe de Diane\Sylvia ou La Nymphe de Diane.pdb

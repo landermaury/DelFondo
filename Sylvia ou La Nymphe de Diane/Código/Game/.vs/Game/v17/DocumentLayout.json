@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|c:\\users\\naza\\documents\\projecesquivarobjentregafinal\\game\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|solutionrelative:frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|c:\\users\\naza\\documents\\projecesquivarobjentregafinal\\game\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|c:\\users\\naza\\documents\\projecesquivarobjentregafinal\\game\\sylvia ou la nymphe de diane.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|solutionrelative:sylvia ou la nymphe de diane.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Game.csproj|C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Game.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|c:\\users\\naza\\documents\\projecesquivarobjentregafinal\\game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Game.csproj|C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Game.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|c:\\users\\naza\\documents\\projecesquivarobjentregafinal\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|c:\\users\\naza\\documents\\projecesquivarobjentregafinal\\game\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06932BBE-29DA-4A92-9861-E86A6AE0A83D}|Sylvia ou La Nymphe de Diane.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:33:23.73Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sylvia ou La Nymphe de Diane",
+              "DocumentMoniker": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Sylvia ou La Nymphe de Diane.csproj",
+              "RelativeDocumentMoniker": "Sylvia ou La Nymphe de Diane.csproj",
+              "ToolTip": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Sylvia ou La Nymphe de Diane.csproj",
+              "RelativeToolTip": "Sylvia ou La Nymphe de Diane.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T21:03:39.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:58:28.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\frmMenu.Designer.cs",
+              "RelativeDocumentMoniker": "frmMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\frmMenu.Designer.cs",
+              "RelativeToolTip": "frmMenu.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwDQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:53:22.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:52:22.969Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:52:23.086Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:44:31.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:38:10.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\frmMenu.cs",
+              "RelativeToolTip": "frmMenu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:05:06.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\Naza\\Documents\\ProjecEsquivarObjEntregaFinal\\Game\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:04:52.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

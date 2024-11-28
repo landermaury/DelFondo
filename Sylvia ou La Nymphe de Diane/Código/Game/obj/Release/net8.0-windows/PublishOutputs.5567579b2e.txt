@@ -1,0 +1,6 @@
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\publish\Resources\BandaSonora.wav
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\publish\Game.exe
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\publish\Game.dll
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\publish\Game.deps.json
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\publish\Game.runtimeconfig.json
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\publish\Game.pdb

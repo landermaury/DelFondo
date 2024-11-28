@@ -1,0 +1,5 @@
+C:\Users\Naza\Documents\JuegoTerminado\Game.exe
+C:\Users\Naza\Documents\JuegoTerminado\Game.dll
+C:\Users\Naza\Documents\JuegoTerminado\Game.deps.json
+C:\Users\Naza\Documents\JuegoTerminado\Game.runtimeconfig.json
+C:\Users\Naza\Documents\JuegoTerminado\Game.pdb

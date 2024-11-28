@@ -1,0 +1,6 @@
+D:\Juegos crack\JuegoDelFondo\Resources\BandaSonora.wav
+D:\Juegos crack\JuegoDelFondo\Game.exe
+D:\Juegos crack\JuegoDelFondo\Game.dll
+D:\Juegos crack\JuegoDelFondo\Game.deps.json
+D:\Juegos crack\JuegoDelFondo\Game.runtimeconfig.json
+D:\Juegos crack\JuegoDelFondo\Game.pdb

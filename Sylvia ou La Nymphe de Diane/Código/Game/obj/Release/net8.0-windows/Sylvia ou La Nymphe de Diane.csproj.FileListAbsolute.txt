@@ -1,0 +1,20 @@
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Game.frmJuego.resources
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Game.frmMenu.resources
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Sylvia_ou_La_Nymphe_de_Diane.Properties.Resources.resources
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Sylvia_ou_La_Nymphe_de_Diane.Resources.Resource1.resources
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.csproj.GenerateResource.cache
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.AssemblyInfoInputs.cache
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.AssemblyInfo.cs
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.csproj.CoreCompileInputs.cache
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.exe
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\Resources\BandaSonora.wav
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.deps.json
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.runtimeconfig.json
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.dll
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\bin\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.pdb
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.dll
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\refint\Sylvia ou La Nymphe de Diane.dll
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.pdb
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\Sylvia ou La Nymphe de Diane.genruntimeconfig.cache
+C:\Users\Naza\Documents\ProjecEsquivarObjEntregaFinal\Game\obj\Release\net8.0-windows\ref\Sylvia ou La Nymphe de Diane.dll

@@ -1,0 +1,257 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #121212;  /* Fondo oscuro */
+    color: #e0e0e0;  /* Texto claro para contrastar */
+    line-height: 1.6;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* Header */
+header {
+    background-color: #1d1d1d;  /* Fondo oscuro */
+    color: #e0e0e0;
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 3px solid #444;
+}
+
+header h1 {
+    margin-bottom: 10px;
+    font-family: 'Georgia', serif;  /* Fuente con un toque más gótico */
+    font-size: 2.5rem;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #e0e0e0;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #bb4444;  /* Color de hover rojo oscuro */
+}
+
+/* Sections */
+section {
+    background-color: #222;  /* Fondo gris oscuro */
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.7);  /* Sombra intensa */
+}
+
+section h2 {
+    color: #e0e0e0;
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+    font-family: 'Georgia', serif;  /* Fuente más oscura */
+}
+
+section p {
+    font-size: 1.22rem;
+    margin-bottom: 15px;
+    color: #dcdcdc;  /* Color gris claro para el texto */
+    line-height: 1.8;
+}
+
+section img {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+}
+
+/*Documentación*/
+#documentacion .imagenes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Espacio entre imágenes */
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#documentacion .imagenes img {
+    width: 300px;  /* Tamaño fijo para todas las imágenes */
+    height: 200px;  /* Tamaño fijo para todas las imágenes */
+    object-fit: cover;  /* Asegura que la imagen se recorte y mantenga su proporción sin deformarse */
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.7); /* Sombra intensa */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animación suave */
+}
+
+#documentacion .imagenes img:hover {
+    transform: scale(1.1); /* Incrementa el tamaño al 110% */
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.9); /* Aumenta la intensidad de la sombra */
+}
+
+/* Estilo para la sección del prototipo */
+#ultimo-prototipo .prototipo-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px; /* Espaciado entre los elementos */
+    margin-top: 20px;
+}
+
+#ultimo-prototipo .side-image {
+    width: 500px; /* Tamaño fijo para las imágenes laterales */
+    height: auto;
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5); /* Sombra */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#ultimo-prototipo video {
+    border-radius: 8px; /* Bordes redondeados en el video */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5); /* Sombra */
+}
+
+#ultimo-prototipo img:hover {
+    transform: scale(1.05); /* Aumenta ligeramente el tamaño */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Agrega una sombra suave */
+}
+/*Videojuego*/
+#videojuego {
+    display: flex;
+    flex-wrap: wrap; /* Permite que las imágenes se organicen en filas según el espacio disponible */
+    gap: 10px; /* Espaciado uniforme entre las imágenes */
+    justify-content: flex-start; /* Alinea las imágenes al principio del contenedor */
+}
+
+#videojuego img {
+    margin: 0;
+    padding: 0;
+    border: none; /* Elimina bordes adicionales */
+    object-fit: none; /* Asegura que la imagen mantenga su tamaño real */
+    box-shadow: none; /* Sin sombras inicialmente */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Suaviza el efecto de hover */
+}
+
+#videojuego img:hover {
+    transform: scale(1.05); /* Aumenta ligeramente el tamaño */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Agrega una sombra suave */
+}
+
+
+
+
+/* Form */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+form label {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #b23737;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form input {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #444;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 400px;
+    background-color: #333;
+    color: #e0e0e0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form input:focus {
+    border-color: #bb4444;  /* Borde rojo oscuro en foco */
+}
+
+form button {
+    padding: 10px 15px;
+    background-color: #bb4444;  /* Rojo oscuro */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    transition: background-color 0.3s ease;
+}
+
+/* Footer */
+footer {
+    background-color: #1d1d1d;  /* Fondo oscuro */
+    color: #e0e0e0;
+    padding: 40px 20px;
+    text-align: center;
+    border-top: 3px solid #444;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer h2, footer h3 {
+    font-family: 'Georgia', serif;  /* Fuente más gótica */
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+    color: #e0e0e0;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+}
+
+footer ul li {
+    margin: 5px 0;
+}
+
+footer ul li a {
+    color: #e0e0e0;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer ul li a:hover {
+    color: #bb4444;  /* Color de hover rojo oscuro */
+}
+
+footer .team-info, footer .rights-info, footer .social-media, footer .privacy-policy {
+    margin-bottom: 20px;
+}
+
+footer .privacy-policy a {
+    color: #e0e0e0;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+footer .privacy-policy a:hover {
+    color: #bb4444;
+}
